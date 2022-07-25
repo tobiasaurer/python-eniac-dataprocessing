@@ -44,8 +44,10 @@ Main goals of the project:
 ## Featured Notebooks/Analysis/Deliverables
 * [Data-Preparation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_datapreparation.ipynb)
 * [Data-Visualisation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_visualisations.ipynb)
-* [Final Presentation (ADD LINK)](link)
+* [Final Presentation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/final_presentation/eniac_final_presentation.pdf)
+
+## Contributing DSWG Members  
+Orjada, Simon
 
 ## Contact
 * https://github.com/tobiasaurer
-* Feel free to contact team leads with any questions or if you are interested in contributing!
