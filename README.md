@@ -20,7 +20,7 @@ Business questions were answered and summarized in a presenation.
 * Matplotlib, seaborn
 
 ## Project Description
-The dataset used is freely available at [ADD LINK](www.kaggle.com).  
+The dataset used is freely available at [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
   
 Main goals of the project:  
 * Assess and clean the data to make it usable
