@@ -27,12 +27,6 @@ Main goals of the project:
 * Evaluate the effect of discounts on sales/revenue
 * Make a recommendation on further discount practice  
 
-## Needs of this project
-
-- data exploration/descriptive statistics
-- data processing/cleaning
-- writeup/reporting
-
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
@@ -41,12 +35,12 @@ Main goals of the project:
 3. Data processing/transformation notebooks are being kept [here](https://github.com/tobiasaurer/python-eniac-dataprocessing) at the parent level of this repo.
 4. Visualisations are sorted in categories and saved [here](https://github.com/tobiasaurer/python-eniac-dataprocessing/tree/main/visualisations)
 
-## Featured Notebooks/Analysis/Deliverables
+## Featured Notebooks/Deliverables
 * [Data-Preparation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_datapreparation.ipynb)
 * [Data-Visualisation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/eniac_visualisations.ipynb)
 * [Final Presentation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/final_presentation/eniac_final_presentation.pdf)
 
-## Contributing DSWG Members  
+## Contributing Members  
 Orjada, Simon
 
 ## Contact
