@@ -41,7 +41,7 @@ Main goals of the project:
 * [Final Presentation](https://github.com/tobiasaurer/python-eniac-dataprocessing/blob/main/final_presentation/eniac_final_presentation.pdf)
 
 ## Contributing Members  
-Orjada, [Simon (github)](https://github.com/simonmayer90)
+[Orjada (github)](https://github.com/orjadamucollari), [Simon (github)](https://github.com/simonmayer90)
 
 ## Contact
 * https://github.com/tobiasaurer
